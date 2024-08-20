@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SDET-assignment/interview-automated-tests/.vs/interview-automated-tests
+/SDET-assignment/interview-automated-tests/RL.AutomatedTests/bin/*
+/SDET-assignment/interview-automated-tests/RL.AutomatedTests/obj/*
